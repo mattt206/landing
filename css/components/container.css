@@ -1,0 +1,39 @@
+.container{
+  width: 80%;
+  margin: 0 auto;
+}
+
+.container > h1 {
+  font-size: 72px;
+  color: white;
+  text-shadow: 3px 3px 3px rgba(0, 0, 0, 0.9);
+  margin: 0;
+}
+.container > h2 {
+  font-size: 42px;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
+}
+
+
+#separation-bar {
+  background-color: rgba(0, 0, 0, 0.856);
+  padding: 1px;
+  border-radius: 3px;
+  margin: 0 auto;
+  width: 80%;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+#intro{
+  text-shadow: 3px 3px 3px rgba(0, 0, 0, 0.9);
+  font-size: 28px;
+}
+
+#space-quote{
+  color: rgb(229, 250, 36);
+  text-shadow: 3px 3px 3px rgba(0, 0, 0, 0.9);
+  font-size: 24px;
+  text-align: right;
+
+}

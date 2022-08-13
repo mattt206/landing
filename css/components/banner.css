@@ -1,0 +1,28 @@
+.banner{
+  background-size: cover;
+  height: 300px;
+  background-position: center;
+  padding: 100px;
+
+}
+
+.banner div a{
+  padding: 10px 10px;
+  box-shadow: 2px 2px 2px rgba(0,0,0,0.9);
+}
+
+.banner h2{
+  color: white;
+  margin: 0px;
+  padding-bottom: 10px;
+  font-size: 60px;
+  text-shadow: rgba(0,0,0,0.9);
+}
+
+.banner p{
+  color: white;
+  margin: 0px;
+  font-size: 30px;
+  margin-bottom: 20px;
+  text-shadow: rgba(0,0,0,0.9);
+}

@@ -1,0 +1,37 @@
+/**********  footer  *****************/
+
+.footer{
+  background-color: black;
+  text-align: center;
+  padding: 50px;
+}
+
+.footer{
+  color: white;
+  font-size: 18px;
+}
+
+.links > h2{
+  color: white;
+  font-style: italic;
+}
+
+
+.footer a{
+  color: white;
+  padding: 15px;
+  font-size: 40px;
+  margin: 0;
+}
+
+#twitter-contact{
+  color: cornflowerblue;
+}
+
+#astronaut-contact{
+  color: rgb(0, 255, 157);
+}
+
+#quote{
+  font-size: 28px;
+}
